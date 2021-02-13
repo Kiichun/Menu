@@ -1,2 +1,2 @@
 # Menu IntelliJ Edition
-Sharing for fun lol
+Kalkulator untuk bangun dasar
