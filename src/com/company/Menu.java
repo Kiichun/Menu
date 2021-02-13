@@ -7,6 +7,8 @@ public class Menu {
         System.out.println("+================================+");
         System.out.println("| 1. Persegi                     |");
         System.out.println("| 2. Lingkaran                   |");
+        System.out.println("| 3. Persegi Panjang             |");
+        System.out.println("| 4. Segitiga                    |");
         System.out.println("| 0. Keluar                      |");
         System.out.println("+================================+");
     }
@@ -26,6 +28,28 @@ public class Menu {
         System.out.println("\n\n\n\n");
         System.out.println("+================================+");
         System.out.println("|            Lingkaran           |");
+        System.out.println("+================================+");
+        System.out.println("| 1. Cari keliling               |");
+        System.out.println("| 2. Cari Luas                   |");
+        System.out.println("| 0. Keluar                      |");
+        System.out.println("+================================+");
+    }
+
+    public void menu_persegi_panjang() {
+        System.out.println("\n\n\n\n");
+        System.out.println("+================================+");
+        System.out.println("|         Persegi Panjang        |");
+        System.out.println("+================================+");
+        System.out.println("| 1. Cari keliling               |");
+        System.out.println("| 2. Cari Luas                   |");
+        System.out.println("| 0. Keluar                      |");
+        System.out.println("+================================+");
+    }
+
+    public void menu_segitiga() {
+        System.out.println("\n\n\n\n");
+        System.out.println("+================================+");
+        System.out.println("|             Segitiga           |");
         System.out.println("+================================+");
         System.out.println("| 1. Cari keliling               |");
         System.out.println("| 2. Cari Luas                   |");
