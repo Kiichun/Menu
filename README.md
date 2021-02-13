@@ -1,2 +1,2 @@
 # Menu IntelliJ Edition
-Kalkulator untuk bangun dasar
+Kalkulator untuk bangun dasar dengan bahasa Java
